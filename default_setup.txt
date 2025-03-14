@@ -1,0 +1,100 @@
+{
+"trays": {
+"49alu_tray1": {
+"x": -281000,
+"y": 24000,
+"z": 117000,
+"length": 87000,
+"width": 86000,
+"columns": 7,
+"rows": 7,
+"depth": 42000,
+"volume": 1500
+},
+"sfc_tray1": {
+"x": 88000,
+"y": 10000,
+"z": 34000,
+"length": 71000,
+"width": 98000,
+"columns": 8,
+"rows": 6,
+"depth": 43000,
+"volume": 1500
+},
+"sfc_tray2": {
+"x": 220000,
+"y": 11000,
+"z": 34000,
+"length": 71000,
+"width": 98000,
+"columns": 8,
+"rows": 6,
+"depth": 43000,
+"volume": 1500
+},
+"sfc_tray3": {
+"x": 89000,
+"y": 99000,
+"z": 34000,
+"length": 71000,
+"width": 98000,
+"columns": 8,
+"rows": 6,
+"depth": 43000,
+"volume": 1500
+},
+"sfc_tray4": {
+"x": 221000,
+"y": 99000,
+"z": 34000,
+"length": 71000,
+"width": 98000,
+"columns": 8,
+"rows": 6,
+"depth": 43000,
+"volume": 1500
+},
+"home1": {
+"x": 0,
+"y": 0,
+"z": 0,
+"length": 1,
+"width": 1,
+"columns": 1,
+"rows": 1,
+"depth": 1,
+"volume": 1
+},
+"wash1": {
+"x": 283000,
+"y": 17900,
+"z": 97400,
+"length": 115000,
+"width": 115000,
+"columns": 1,
+"rows": 1,
+"depth": 47000,
+"volume": 10000
+},
+"waste1": {
+"x": 283000,
+"y": 44700,
+"z": 97400,
+"length": 1,
+"width": 1,
+"columns": 1,
+"rows": 1,
+"depth": 10000,
+"volume": 10000
+}
+},
+"combined trays": {
+"comb_sfc_tray": [
+"sfc_tray1",
+"sfc_tray2",
+"sfc_tray3",
+"sfc_tray4"
+]
+}
+}
